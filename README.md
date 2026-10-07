@@ -207,7 +207,15 @@ npm run fetch -- --countries US,IN,DE
 
 ## Contributing
 
-New categories, additional countries, keyword-mapping corrections and analysis notebooks are all welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md). Good first contributions are labelled [`good first issue`](https://github.com/cleanor-app/search-index/labels/good%20first%20issue).
+New categories, additional countries, keyword-mapping corrections and analysis notebooks are all welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md). Good first contributions are labelled [`good first issue`](https://github.com/cleanor-app/search-index/labels/good%20first%20issue); most need no API access, only the CSVs.
+
+**Hacktoberfest:** this repository takes part. Merged pull requests are labelled `hacktoberfest-accepted`, so they count towards your Hacktoberfest goal. Comment on an issue to claim it before you start.
+
+### Contributors
+
+Thank you to everyone who has improved the index:
+
+- [@Nikith20072002](https://github.com/Nikith20072002): [AI leaders by country notebook](notebooks/ai-leaders-by-country.ipynb) (#4)
 
 ## Related projects
 
