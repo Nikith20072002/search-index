@@ -216,6 +216,7 @@ New categories, additional countries, keyword-mapping corrections and analysis n
 Thank you to everyone who has improved the index:
 
 - [@Nikith20072002](https://github.com/Nikith20072002): [AI leaders by country notebook](notebooks/ai-leaders-by-country.ipynb) (#4)
+- [@AK-Lmn](https://github.com/AK-Lmn): validation of the derived CSVs, shares and ranks (#10)
 
 ## Related projects
 
